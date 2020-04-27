@@ -1,0 +1,4 @@
+
+Menu : 1.Create 2.Read 3.Update 4.Delete 5.List 6.Report 7.Load file 8.Save file 9.Save Report 10.Optimize Record 11.Sort Record  0.Quit >
+모든 상품정보레코드
+1. 의자 / 가구 / 에몬스 / 20000 / 2 / 40000
